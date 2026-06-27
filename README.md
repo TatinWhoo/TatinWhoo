@@ -17,9 +17,9 @@
 
 <table>
   <tr>
-    <td align="center" width="160">
+    <td align="center" width="130">
       <!-- Replace the link below with your actual EcoPoints logo URL -->
-      <img src="Logo Elements.png" alt="EcoPoints Logo" width="70" style="border-radius: 10px;" />
+      <img src="Logo Elements.png" alt="EcoPoints Logo" width="50" style="border-radius: 10px;" />
     </td>
     <td>
       <h3>EcoPoints</h3>
@@ -36,7 +36,7 @@
 
 <br/>
 
-<h2 align="center">🛠️ Tech Tools & Workflow</h2>
+<h2 align="center">🛠️ Tech Tools & Workflow - Still Learning</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,postgres,python,tailwind,nodejs,raspberrypi,html,css,git,github,vscode,figma&perline=12" alt="Tech Stack Icons" />
@@ -47,10 +47,9 @@
 <h2 align="center">📫 Socials - Connect with Me</h2>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" alt="Email"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/__gargyy/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://web.facebook.com/justine.ibale.37"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="www.linkedin.com/in/justine-james-ibale"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 <br/>
