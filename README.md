@@ -6,9 +6,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Justine+👋;Full+Stack+Developer;Modern+UI%2FUX+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Justine+%F0%9F%91%8B;Full+Stack+Developer;Modern+UI%2FUX+Enthusiast" alt="Typing SVG"/>
   </a>
-  <p><i>Crafting intuitive web experiences and exploring the intersection of software and hardware. Currently pursuing a Diploma in Information Technology.</i></p>
+  <p><i>Crafting intuitive web experiences and exploring the intersection of software and hardware.</i></p>
 </div>
 
 ---
@@ -19,7 +19,7 @@
   <tr>
     <td align="center" width="160">
       <!-- Replace the link below with your actual EcoPoints logo URL -->
-      <img src="Logo Elements.png" alt="EcoPoints Logo" width="120" style="border-radius: 10px;" />
+      <img src="Logo Elements.png" alt="EcoPoints Logo" width="70" style="border-radius: 10px;" />
     </td>
     <td>
       <h3>EcoPoints</h3>
@@ -54,7 +54,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TatinWhoo/count.svg" alt="Profile Views Counter" />
-</div>
