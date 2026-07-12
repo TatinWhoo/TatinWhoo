@@ -39,7 +39,7 @@
 <h2 align="center">🛠️ Tech Tools & Workflow - Still Learning</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,postgres,python,tailwind,nodejs,raspberrypi,html,css,git,github,vscode,figma&perline=12" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,c,cpp,cs,js,ts,nodejs,express,nextjs,flask,react,tailwind,raspberrypi,postgres,mysql,redis,supabase,sqlite,git,github,docker,kubernetes,nginx,figma,ai&perline=12" alt="Tech Stack Icons" />
 </div>
 
 <br/>
