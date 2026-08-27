@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Justine+%F0%9F%91%8B;Full+Stack+Developer;Modern+UI%2FUX+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there,+I%27m+Justine+%F0%9F%91%8B;Full+Stack+Developer" alt="Typing SVG"/>
   </a>
   <p><i>Crafting intuitive web experiences and exploring the intersection of software and hardware.</i></p>
 </div>
@@ -39,7 +39,7 @@
 <h2 align="center">🛠️ Tech Tools & Workflow - Still Learning</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,c,cpp,cs,js,ts,nodejs,express,nextjs,flask,react,tailwind,raspberrypi,postgres,mysql,redis,supabase,sqlite,git,github,docker,kubernetes,nginx,figma,ai&perline=12" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,c,cpp,cs,js,ts,nodejs,express,nextjs,flask,react,tailwind,raspberrypi,postgres,mysql,redis,supabase,sqlite,git,github,docker,nginx,figma,ai&perline=12" alt="Tech Stack Icons" />
 </div>
 
 <br/>
